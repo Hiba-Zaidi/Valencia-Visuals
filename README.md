@@ -14,7 +14,7 @@ HTML5 || CSS3
 
 ## Categories
 
-Nature | Cars | Buildings | Animals | Anime | Rare Photography
+Nature | Cars | Nature | Animals | Anime | Rare Photography
 
 ## Learning Outcomes
 
