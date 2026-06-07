@@ -1,8 +1,8 @@
 Valencia-Visuals
-Valencia Visuals is a modern photography showcase website built using pure HTML and CSS with a clean gallery-focused design.
+Valencia Visuals is a modern photography showcase website landing page  built using pure HTML and CSS with a clean gallery-focused design.
 A photography-inspired landing page that blends minimalist design, visual storytelling, and creative exploration.
 
-Overview
+## Overview
 Valencia Visuals is a clean and responsive gallery website designed to showcase nature, wildlife, architecture, automobiles, and rare moments through a visually engaging layout.
 
 ## Features
